@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158001690298",
+    "firebase_url": "https://birdy-run.firebaseio.com",
+    "project_id": "birdy-run",
+    "storage_bucket": "birdy-run.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158001690298:android:7b6171adc02c343b",
+        "android_client_info": {
+          "package_name": "com.dsgames.birdyrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158001690298-lmt36lko0tg4sh4st6kob7g75h11u7ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsgames.birdyrun",
+            "certificate_hash": "73ea4fa465372fc2b1539c6e687f15dedd191a59"
+          }
+        },
+        {
+          "client_id": "158001690298-b2dg3k028er7r77crmfpjko4hvv2akvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArD5KC5chRMrpgmzNlprvA5_0bua5otaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158001690298-b2dg3k028er7r77crmfpjko4hvv2akvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
